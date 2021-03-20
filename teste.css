@@ -1,0 +1,52 @@
+@font-face{
+    font-family: 'Overlock SC', cursive;
+    font-family: 'Frijole', cursive;
+         
+}
+body{
+    background-color:black;
+}
+
+.welcome {
+    width: 1920px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Frijole';
+    background-color:black;
+    background-size: 100%;
+    width: 100%;
+    margin-bottom: 10px;
+
+
+}
+#aboutme {
+    font-size: 20px;
+    font-family:"Overlock SC";
+    width: 100%;
+}
+
+#fish {
+    opacity: 10%;
+    width: 1920px;
+    height: 1080px;
+    margin-left: -15px;
+}
+
+.leftInterface {
+    position:absolute; top: 130px; left: 0px;
+    text-align: center;
+    font-family: "Overlock SC";
+    color: white;
+    width: 12%;
+    height: 1080px;
+    background-color: black;
+}
+
+.leftOptions{  
+    text-decoration: none;
+    text-decoration-color: none;
+    margin-top: 10px;
+
+
+}
